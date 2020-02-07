@@ -1,0 +1,16 @@
+#view_table
+{
+    border-style:solid;
+    border-color: maroon ;
+    width: 600px;
+    text-align: center;
+    
+
+}
+#view_table th{
+    background-color: palegreen;
+}
+#view_table tr{
+    background-color: palevioletred;
+    padding: 20px;
+}
